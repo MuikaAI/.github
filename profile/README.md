@@ -12,7 +12,7 @@ Muika, 沐妮卡，源于 Monika, 没错，就是 DDLC 那个。所以，MuikaAI
 
 [Moemu/Muice-Vtuber (Public archive)](https://github.com/Moemu/Muice-Vtuber)
 
-[Moemu/Muika-After-Story (Public archive)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Moemu/Muika-After-Story (WIP)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [Paper: 基于风格控制的角色对话训练集自动扩展方法(WIP)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
