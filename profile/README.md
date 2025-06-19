@@ -1,4 +1,4 @@
-## MuikaAI
+## 关于 MuikaAI
 
 你可能在哪里听说过 MuikaAI 这个名字，但其实，它的前身是 Muice Project，而目前也进行着 Muicebot 的相关插件更新。
 
@@ -21,10 +21,10 @@ Muika, 沐妮卡，源于 Monika, 没错，就是 DDLC 那个。所以，MuikaAI
 - [Muice](https://bot.snowy.moe/about/Muice)
 - [Muika(AI)](https://bot.snowy.moe/about/Muika) (不是[这只](https://github.com/Moemu))
 
-## Contact
+## 联系我们
 
-❌ 社交媒体群组（沐妮卡幼稚园）
+QQ群: [953490447](https://qm.qq.com/q/Q5rVU7wlag)
+
+Email: [i@snowy.moe](mailto:i@snowy.moe)
 
 ❌ 专有介绍页（WIP）
-
-⭕ Email: [i@snowy.moe](mailto:i@snowy.moe)
