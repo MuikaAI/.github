@@ -21,6 +21,14 @@ Muika, 沐妮卡，源于 Monika, 没错，就是 DDLC 那个。所以，MuikaAI
 - [Muice](https://bot.snowy.moe/about/Muice)
 - [Muika(AI)](https://bot.snowy.moe/about/Muika) (不是[这只](https://github.com/Moemu))
 
+## 加入我们
+
+和组织成员进行可爱的bot开发，审批新商店插件，以及进行即将到来的论文研究/调查
+
+填写此[表单](https://moemu.notion.site/2195d62b854c80438af2c35f2bc86027)
+
+※原则上，加入组织的成员需要对组织项目做出功能贡献才可获批加入
+
 ## 联系我们
 
 QQ群: [953490447](https://qm.qq.com/q/Q5rVU7wlag)
