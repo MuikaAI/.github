@@ -27,7 +27,7 @@ Muika, 沐妮卡，源于 Monika, 没错，就是 DDLC 那个。所以，MuikaAI
 
 填写此[表单](https://moemu.notion.site/2195d62b854c80438af2c35f2bc86027)
 
-※原则上，加入组织的成员需要对组织项目做出功能贡献才可获批加入
+※原则上，加入组织的成员需要对组织项目做出功能贡献才可获批加入（包括但不限于 [Muicebot](https://github.com/Moemu/MuiceBot/) 和 以前的 [Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot)）
 
 ## 联系我们
 
