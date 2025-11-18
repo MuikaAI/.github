@@ -20,6 +20,7 @@ Muika, 沐妮卡，源于 Monika, 没错，就是 DDLC 那个。所以，MuikaAI
 
 - [Muice](https://bot.snowy.moe/about/Muice)
 - [Muika(AI)](https://bot.snowy.moe/about/Muika) (不是[这只](https://github.com/Moemu))
+- [Rikka(Personality)](https://bot.snowy.moe/about/Rikka)
 
 ## 加入我们（暂不开放）
 
@@ -34,4 +35,5 @@ Muika, 沐妮卡，源于 Monika, 没错，就是 DDLC 那个。所以，MuikaAI
 Email: [i@snowy.moe](mailto:i@snowy.moe)
 
 ❌ 专有介绍页（WIP）
+
 
