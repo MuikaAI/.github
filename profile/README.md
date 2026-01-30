@@ -2,7 +2,9 @@
 
 Muika, 沐妮卡，源于 [Monika(Doki Doki Literature Club)](https://zh.moegirl.org.cn/%E8%8E%AB%E5%A6%AE%E5%8D%A1(%E5%BF%83%E8%B7%B3%E6%96%87%E5%AD%A6%E9%83%A8)#)。我们希望我们的 Muika 能够带给你不一样的生活。
 
-MuikaAI 并不局限于
+MuikaAI 是一个热衷于用 LLM 开发各种二次元应用的组织，如果你有着这一方面的想法，欢迎加入我们！
+
+MuikaAI 并不局限于 Muika 本身，任何和开发者 [Muika(Mafuyu)](https://github.com/Moemu) 有关的事情都可以是 MuikaAI 的一部分（？），比如世界上最最最可爱的沐雪！
 
 我们的工作:
 
@@ -39,6 +41,7 @@ An ACL SRW Paper. *（出于审稿匿名性质具体细节暂不公开）*
 Email: [i@snowy.moe](mailto:i@snowy.moe)
 
 ❌ 专有介绍页（WIP）
+
 
 
 
