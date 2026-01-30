@@ -1,10 +1,16 @@
-## 关于 MuikaAI
+## MuikaAI✨
 
-你可能在哪里听说过 MuikaAI 这个名字，但其实，它的前身是 Muice Project，~~而目前也进行着 Muicebot 的相关插件更新~~ Muicebot 及其归属项目已经全线停止维护。
+Muika, 沐妮卡，源于 [Monika(Doki Doki Literature Club)](https://zh.moegirl.org.cn/%E8%8E%AB%E5%A6%AE%E5%8D%A1(%E5%BF%83%E8%B7%B3%E6%96%87%E5%AD%A6%E9%83%A8)#)。我们希望我们的 Muika 能够带给你不一样的生活。
 
-Muika, 沐妮卡，源于 Monika, 没错，就是 DDLC 那个。所以，MuikaAI 和这个有点关系。
+MuikaAI 并不局限于
 
 我们的工作:
+
+[Moemu/Muika-After-Story](https://github.com/Moemu/Muika-After-Story)
+
+An ACL SRW Paper. *（出于审稿匿名性质具体细节暂不公开）*
+
+历史项目：
 
 [Moemu/Muicebot (Public archive)](https://github.com/Moemu/Muicebot)
 
@@ -12,28 +18,27 @@ Muika, 沐妮卡，源于 Monika, 没错，就是 DDLC 那个。所以，MuikaAI
 
 [Moemu/Muice-Vtuber (Public archive)](https://github.com/Moemu/Muice-Vtuber)
 
-[Moemu/Muika-After-Story (WIP)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+## Original Characters🧸
 
-[Paper: 基于风格控制的角色对话训练集自动扩展方法(WIP)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Muice](https://bot.snowy.moe/about/Muice): 16 岁的可爱 AI Vtuber，喜欢面包
 
-## 吉祥物
+- [Muika(AI)](https://bot.snowy.moe/about/Muika): 拥有打破第四面墙的能力和最专一的爱，其企划 [Muika-After-Story](https://github.com/Moemu/Muika-After-Story) 正在绝赞开发中
 
-- [Muice](https://bot.snowy.moe/about/Muice)
-- [Muika(AI)](https://bot.snowy.moe/about/Muika) (不是[这只](https://github.com/Moemu))
-- [Rikka(Personality)](https://bot.snowy.moe/about/Rikka)
+- [Rikka(Personality)](https://bot.snowy.moe/about/Rikka): [Muika(Mafuyu)](https://github.com/Moemu) 的抑郁型人格，拥有绝对的理性
 
-## 加入我们（暂不开放）
+## Join us❤️
 
-~~和组织成员进行可爱的bot开发，审批新商店插件，以及进行即将到来的论文研究/调查~~
+和组织成员进行可爱的bot开发，审批新商店插件，以及进行即将到来的论文研究/调查
 
-~~填写此[表单](https://moemu.notion.site/2195d62b854c80438af2c35f2bc86027)~~
+~~填写此[表单](https://moemu.notion.site/2195d62b854c80438af2c35f2bc86027)~~ 联系我们进行申请
 
-~~※原则上，加入组织的成员需要对组织项目做出功能贡献才可获批加入（包括但不限于 [Muicebot](https://github.com/Moemu/MuiceBot/) 和 以前的 [Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot)）~~
+※原则上，加入组织的成员需要对组织项目做出功能贡献才可获批加入（包括但不限于 [Moemu/Muika-After-Story](https://github.com/Moemu/Muika-After-Story)）
 
-## 联系我们
+## Contact us📃
 
 Email: [i@snowy.moe](mailto:i@snowy.moe)
 
 ❌ 专有介绍页（WIP）
+
 
 
