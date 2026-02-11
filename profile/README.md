@@ -44,5 +44,8 @@ Email: [i@snowy.moe](mailto:i@snowy.moe)
 
 QQ 群组：[806443548](https://qm.qq.com/q/y1gC9PU4IU)
 
+25 時去中心化社交平台：[misskey.snowy.moe](https://misskey.snowy.moe/)
+
 ❌ 专有介绍页（WIP）
+
 
